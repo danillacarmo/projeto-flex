@@ -1,2 +1,2 @@
-# projeto-flex
-Projeto final DIO Flexbox
+# project flexbox DIO
+
